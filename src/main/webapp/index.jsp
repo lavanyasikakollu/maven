@@ -4,6 +4,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Hello Java EE 70 Continuous Delivery!</title>
+        <title>This is from training</title>
+        
     </head>
     <body>
         <h1> GOOD DAY </h1>
